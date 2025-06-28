@@ -1,5 +1,5 @@
 // Judul/nama web
-const APP_TITLE = "Cetak Kupon";
+const APP_TITLE = "Gapakenanti";
 // Deskripsi web/iklan
 const APP_DESC = "Dapatkan hadiah menarik dari Bank BNI buat kamu yang beruntung";
 // URL banner gambar

